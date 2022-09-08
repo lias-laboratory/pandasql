@@ -1,0 +1,234 @@
+.sidebar-fixed {
+  height: 100vh;
+  width: 270px;
+  -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  z-index: 1050;
+  background-color: #fff;
+  padding: 1.5rem;
+  padding-top: 0; }
+  .sidebar-fixed .list-group .active {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
+  .sidebar-fixed .logo-wrapper {
+    padding: 2.5rem; }
+    .sidebar-fixed .logo-wrapper img {
+      max-height: 50px; }
+
+@media (min-width: 1200px) {
+  .navbar,
+  .page-footer,
+  main {
+    padding-left: 270px; } }
+
+@media (max-width: 1199.98px) {
+  .sidebar-fixed {
+    display: none; } }
+	
+/*	
+	.main-title{
+    padding:10px;
+    background-color:#233a77;
+    color:#fff;
+    text-align: center;
+}*/
+
+.type{
+    padding-left:15%;
+    padding-right:15%;
+    background-color:#007bff;
+    color:#fff;
+    width:20%;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 13px;
+}
+
+.type-selected{
+  font-size: 13px;
+   padding-left:15%;
+   padding-right:15%;
+   background-color:#fff;
+   color:#007bff;
+   width: 20%;
+   text-align: center;
+   border: solid 1px #007bff;
+   padding-top: 15px;
+   padding-bottom: 15px;
+ 
+}
+
+.type:hover{
+    background-color: #fff;
+    border: 1px solid #007bff;
+    color: #007bff;
+    cursor: pointer;
+}
+.btn{
+    position: relative;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 7px;
+    padding-left:20px;
+    padding-right: 20px;
+    border-radius: 15px;
+ 
+}
+
+.btn:hover{
+    background-color: #fff;
+    border: 1px solid #007bff;
+    color: #007bff;
+    cursor: pointer;
+}
+
+#right-container{
+    position:relative;
+    border: solid 1px #233a77;
+    width:49%;
+     height:85vh;
+     float:right;
+      top:0;
+}
+/*This holds the pieChart*/
+#left-container{
+    position:relative;
+    width:49%;
+    height:85vh;
+    float:left;
+    margin-right:3px;
+   
+    box-shadow: 10px;
+}
+/*Inputs div*/
+#right-div{
+    background-color: #fff;
+    position:relative;
+    width:100%; 
+    height:37vh;
+    float:right; 
+    top:0;
+    font-size: 12px;
+   
+}
+
+#footer{
+    position:relative;
+    height : 18vh;
+    background-color:#233a77;
+    width:100%;
+    bottom:0;
+    float:left;
+    color:#fff;
+    
+    
+}
+
+#visualize{
+  
+   margin-left:18%;
+  
+}
+#ok{
+    padding-left:40px;
+     padding-right:40px;
+}
+
+#type-span{
+    margin-left: 18px;
+   
+   
+}
+
+form {
+  padding-top:50px;
+  padding-bottom: 50px;
+}
+
+form + li{
+    padding-bottom: 20px;
+}
+
+/*Hight Charts css*/
+
+.highcharts-figure, .highcharts-data-table table {
+    min-width: 320px; 
+    max-width: 660px;
+    margin: 1em auto;
+}
+
+.highcharts-data-table table {
+	font-family: Verdana, sans-serif;
+	border-collapse: collapse;
+	border: 1px solid #EBEBEB;
+	margin: 10px auto;
+	text-align: center;
+	width: 100%;
+	max-width: 500px;
+}
+.highcharts-data-table caption {
+    padding: 1em 0;
+    font-size: 1.2em;
+    color: #555;
+}
+.highcharts-data-table th {
+	font-weight: 600;
+    padding: 0.5em;
+}
+.highcharts-data-table td, .highcharts-data-table th, .highcharts-data-table caption {
+    padding: 0.5em;
+}
+.highcharts-data-table thead tr, .highcharts-data-table tr:nth-child(even) {
+    background: #f8f8f8;
+}
+.highcharts-data-table tr:hover {
+    background: #f1f7ff;
+}
+
+.params {
+    float:right;
+    width:20%;
+    height:40vh;
+    margin-bottom:20px;
+    z-index: 5;
+    position: absolute;
+    margin-right: -20px;
+}
+
+.params p{
+    font-size:12px;
+ 
+    float: top;
+}
+
+#pie-div{
+    
+    padding:10px;
+    overflow: auto;
+    float: left;
+   
+}
+
+
+#graph-container{
+    width: 100%;
+    height: 100%;
+    
+}
+#visualize-span{
+margin-top: 30px;
+}
+
+#visualize-span span{
+  font-size:12px;
+ 
+}
+
+#visualize-span input{
+  font-size:12px;
+}
