@@ -58,7 +58,7 @@ To use PandaSQL, open a browser and type: 127.0.0.1:5000
 
 Please refer to this video for a live demonstration.
 
-<video src='https://www.youtube.com/watch?v=pwcYkOUV8_s' width=180/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pwcYkOUV8_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Results
 
