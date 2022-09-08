@@ -58,7 +58,7 @@ To use PandaSQL, open a browser and type: 127.0.0.1:5000
 
 Please refer to this video for a live demonstration.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pwcYkOUV8_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![PandaSQL Demonstration](https://img.youtube.com/vi/pwcYkOUV8_s/0.jpg)](https://www.youtube.com/watch?v=pwcYkOUV8_s)
 
 ## Results
 
@@ -66,7 +66,8 @@ The results output using the CLI version of PandaSQL by the standard algorithm a
 
 Example of output:
 
-|_. Vertex1 |_. vertex2 |_. vertex3 |
+|  Vertex1  |  vertex2  |  vertex3  |
+|-----------|-----------|-----------|
 |     1     |     2     |     5     |
 |     1     |     2     |     8     |
 |     1     |     3     |     7     |
@@ -77,7 +78,8 @@ The results output using the CLI version of PandaSQL by the randomized algorithm
 
 Example of output:
 
-|_. machine |_. vertex1 |_. vertex2 |_. vertex3 |
+|  machine  |  vertex1  |  vertex2  |  vertex3  |
+|-----------|-----------|-----------|-----------| 
 |     1     |     1     |     2     |     3     |
 |     1     |     1     |     2     |     5     |
 |     1     |     1     |     3     |     7     |
