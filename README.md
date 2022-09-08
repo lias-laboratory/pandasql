@@ -58,9 +58,7 @@ To use PandaSQL, open a browser and type: 127.0.0.1:5000
 
 Please refer to this video for a live demonstration.
 
-[![Demonstration PandaSQL]
-(https://img.youtube.com/vi/pwcYkOUV8_s/default.jpg)]
-(https://www.youtube.com/watch?v=pwcYkOUV8_s "Demonstration PandaSQL")
+https://www.youtube.com/watch?v=pwcYkOUV8_s
 
 ## Results
 
