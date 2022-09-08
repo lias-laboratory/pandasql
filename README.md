@@ -12,8 +12,6 @@ This project concerns implementing and optimizing Randomized Triangle Enumeratio
 
 ## Downloads
 
-The source code of the project can be loaded here: https://github.com/lias-laboratory/pandasql/releases
-
 It contains the following elements:
 
 * CLI version (_cli_ directory) which contains:
