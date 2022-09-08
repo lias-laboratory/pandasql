@@ -54,9 +54,13 @@ $ python server.py
 
 To use PandaSQL, open a browser and type: 127.0.0.1:5000
 
-Please refer to this video for a demonstration on how to use it
+## How to use
 
-[![Watch the video](https://img.youtube.com/vi/pwcYkOUV8_s/default.jpg)](https://youtu.be/pwcYkOUV8_s)
+Please refer to this video for a live demonstration.
+
+[![Demonstration PandaSQL]
+(https://img.youtube.com/vi/pwcYkOUV8_s/default.jpg)]
+(https://www.youtube.com/watch?v=pwcYkOUV8_s "Demonstration PandaSQL")
 
 ## Results
 
