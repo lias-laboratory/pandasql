@@ -88,6 +88,10 @@ Example of output:
 
 * Abir Farouzi, Ladjel Bellatreche, Carlos Ordonez, Gopal Pandurangan, Mimoun Malki. A Scalable Randomized Algorithm for Triangle Enumeration on Graphs based on SQL Queries, DAWAK Conference 2020
 
+## Software licence agreement
+
+Details the license agreement of PandaSQL: [LICENCE](LICENCE)
+
 ## Historic Contributors
 
 * [Abir FAROUZI](https://www.lias-lab.fr/members/abirfarouzi/)
