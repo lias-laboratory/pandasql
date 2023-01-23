@@ -92,12 +92,12 @@ Example of output:
 
 Details the license agreement of PandaSQL: [LICENCE](LICENCE)
 
-## Historic Contributors
+## Historic Contributors (core developers first followed by alphabetical order)
 
-* [Abir FAROUZI](https://www.lias-lab.fr/members/abirfarouzi/)
+* [Abir FAROUZI (core developer)](https://www.lias-lab.fr/members/abirfarouzi/)
 * [Ladjel BELLATRECHE](https://www.lias-lab.fr/members/ladjelbellatreche/)
+* Mimoun MALKI
 * Carlos ORDONEZ
 * Gopal PANDURANGAN
-* Mimoun MALKI
 
 
