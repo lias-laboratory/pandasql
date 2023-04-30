@@ -90,7 +90,7 @@ Example of output:
 
 ## Software licence agreement
 
-Details the license agreement of PandaSQL: [LICENCE](LICENCE)
+Details the license agreement of PandaSQL: [LICENSE](LICENSE)
 
 ## Historic Contributors (core developers first followed by alphabetical order)
 
